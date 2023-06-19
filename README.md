@@ -18,6 +18,7 @@ API Integration: The app integrates with an API to fetch real-time data about di
 
 ## Link to video
 [Video of Food Delivery App](https://drive.google.com/file/d/1udgZ6Bo5CVcXGWEB_pvLMFgjfZ9jkFeN/view?usp=sharing){:target="_blank"}
+<a href="https://drive.google.com/file/d/1udgZ6Bo5CVcXGWEB_pvLMFgjfZ9jkFeN/view?usp=sharing" target="_blank">Link Text</a>
 
 
 
