@@ -18,11 +18,7 @@ Dart: The programming language used to write the app's logic and functionality.
 
 API Integration: The app integrates with an API to fetch real-time data about dishes and categories, ensuring accurate and up-to-date information.
 
-<img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/5751b870-7634-4cc8-a3cf-6ec1e005f443" width="400" height="200" />
-
-
-![description_fda](https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/3f14328f-889f-49b6-8ffe-c65745e95cf3)
-![bucket_fda](https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/6c7e4b7d-bf92-44fb-b4e2-bc874be1bdaa)
-
-![dishes_page_fda](https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/ce6e3d28-bcb9-46e6-8dca-308743923a9e)
-
+<img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/5751b870-7634-4cc8-a3cf-6ec1e005f443" width="144" height="256" />
+<img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/ce6e3d28-bcb9-46e6-8dca-308743923a9e" width="144" height="256" />
+<img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/3f14328f-889f-49b6-8ffe-c65745e95cf3" width="144" height="256" />
+<img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/6c7e4b7d-bf92-44fb-b4e2-bc874be1bdaa" width="144" height="256" />
