@@ -19,7 +19,7 @@ Dart: The programming language used to write the app's logic and functionality.
 API Integration: The app integrates with an API to fetch real-time data about dishes and categories, ensuring accurate and up-to-date information.
 
 ## Link to video
-https://drive.google.com/drive/folders/1HzYCri1S9sMFtA2HpUHVGfuILZwcSde0?usp=sharing
+[Video of Food Delivery App](https://drive.google.com/file/d/1udgZ6Bo5CVcXGWEB_pvLMFgjfZ9jkFeN/view?usp=sharing)
 
 <img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/5751b870-7634-4cc8-a3cf-6ec1e005f443" width="144" height="256" />
 <img src="https://github.com/ErsultanKanapiya27/food_delivery_service_app/assets/123970053/ce6e3d28-bcb9-46e6-8dca-308743923a9e" width="144" height="256" />
